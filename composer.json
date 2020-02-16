@@ -1,0 +1,14 @@
+{
+    "name": "tommy/tools",
+    "authors": [
+        {
+            "name": "tommy",
+            "email": "owl.tommy@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "consolidation/robo": "^1.0.0",
+        "henrikbjorn/lurker": "*"
+    }
+}
